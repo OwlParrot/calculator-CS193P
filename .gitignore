@@ -1,0 +1,10 @@
+*.pbxuser
+xcuserdata
+*.xcuserstate
+*.xcbkptlist
+*.xccheckout
+.DS_Store
+*~.nib
+*.swp
+DerivedData
+.history
